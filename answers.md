@@ -32,3 +32,17 @@ Date:   Fri Sep 9 17:36:51 2022  -0400
 
 	initial commit
 
+answer 9
+I can now see the files on my repository and I can access them on github now.
+
+answer 10 
+no the local file was not updated
+
+answer 11
+The push fails because it doesn't line up with the online file. It wants me to pull the file online and the changes and then try to push it again
+
+answer 12
+After I did the command git pull I was able to open the README.md file again and saw that changes that I made on github
+
+answer 13
+.  ..  .git  .gitignore  README.md
